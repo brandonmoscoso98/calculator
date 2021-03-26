@@ -1,12 +1,9 @@
-package cst_1201_Spring_21;
+package Spring_21;
 import java.util.Scanner;
 
 public class calculator {
-    /*
-     * This class we will build
-     * Calculator APP
-     * */
-    // add two num
+    
+    // addition //
     public static double addNum( double n1, double n2 ) {
         double total = n1 + n2;
         return total;
