@@ -1,4 +1,4 @@
-package Spring_21;
+package Spring2021;
 import java.util.Scanner;
 
 public class calculator {
